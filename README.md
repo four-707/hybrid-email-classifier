@@ -1,9 +1,11 @@
 # Hybrid-Email-Classifier
-- Designed and implemented Email classification that is a real time email classifier, classify emails in the category of Spam or Ham.
-- Classification of the emails is based on the content of the email and using hybrid machine learning algorithm.
-- Vectorization is done using Naive Bayes and classificaton is done using support vector machine.
-- It has properly design tested on seen and unseen data and having good accuracy of more than 90 percent.
-- It can be linked with g-mail account and then it can perform spam detection on new emails.
+- Designed and implemented Email classification that is a real time email classifier, classify emails in the category of **Spam or Ham**.
+- Classification of the emails is based on the content of the email and using **hybrid machine learning algorithm**.
+- **Vectorization** is done using **Naive Bayes** and **classificaton** is done using **support vector machine**.
+- It has properly design tested on seen and unseen data and having **good accuracy** of more than 90 percent.
+- It can be **linked with g-mail** account and then it can perform spam detection on new emails.
+- It consist of very good **GUI** shown below, different option like star-mark and trash etc.
+- More emails can be added or can be written.
 
 ## Opening-Window (welcome window)
 ![p1](https://user-images.githubusercontent.com/103592889/178052592-ddb29de2-191c-46c0-8f7d-a93107ffed71.png)
